@@ -1,0 +1,9 @@
+{
+  "name": "yangli0516/dkm-core",
+  "description": "The core framework to build DKM",
+  "autoload": {
+    "psr-4": {
+      "Dkm\\Core\\": "src/"
+    }
+  }
+}
